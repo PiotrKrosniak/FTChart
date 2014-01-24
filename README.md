@@ -2,7 +2,7 @@ FTChart
 =======
 --------
 
-[FusionTableSimpleSlider ][dl] -- 10 Jan 2014
+[FTChart ][dl] -- 24 Jan 2014
 
 [dl]: https://github.com/PiotrKrosniak/FTchart/archive/master.zip
 
